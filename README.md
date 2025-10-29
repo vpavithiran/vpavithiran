@@ -125,13 +125,6 @@ Problem Solving • Critical Thinking • Fast Learner • Leadership • Commun
 
 ---
 
-## 📈 GitHub Stats  
-
-![Pavithiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vpavithiran&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpavithiran&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect With Me  
 - 📧 **Email:** [vpavithiran2k3@gmail.com](mailto:vpavithiran2k3@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/pavithiran-venkatesh](https://linkedin.com/in/pavithiran-venkatesh)  
