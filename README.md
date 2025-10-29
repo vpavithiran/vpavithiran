@@ -38,6 +38,56 @@ With hands-on experience in **LangChain, LangGraph, LangSmith**, and **RAG/Agent
 
 ---
 
+## 🧠 Generative & Agentic AI Projects (10+ Projects)
+
+### 🧩 1. Conversational RAG Chatbot  
+- Built a context-aware chatbot using **LangChain**, **Groq/OpenAI LLMs**, and **Chroma Vector Store**  
+- Implemented **Retrieval-Augmented Generation (RAG)** pipeline for document-based Q&A  
+- Integrated **memory** for contextual continuity and dynamic prompt injection  
+
+### 📄 2. Document Q&A with Memory  
+- Developed a **multi-document retrieval system** with FAISS & LangChain retrievers  
+- Added chat history tracking and session-based embeddings  
+- Used **FastAPI** backend + **Streamlit** frontend  
+
+### 🧾 3. Website and YouTube Summarizer  
+- Extracted website & transcript content using **LangChain loaders**  
+- Summarized long-form data using **LLMs + token-aware chunking**  
+- Added summarization modes: bullet summary, key insights, and Q&A  
+
+### 📚 4. Multi-Agent Research Assistant  
+- Implemented **Agentic AI system** with Orchestrator–Worker agents  
+- Each agent handled specific subtasks: data retrieval, summarization, evaluation  
+- Used **LangGraph** for structured multi-agent workflow visualization  
+
+### 🧮 5. Evaluator–Optimizer Workflow  
+- Created a pipeline where **Evaluator Agents** scored model outputs  
+- **Optimizer Agents** iteratively refined responses to improve accuracy  
+- Demonstrated the **Evaluator–Optimizer feedback loop** architecture  
+
+### 💬 6. Chatbot with Long-Term Memory  
+- Integrated **LangChain memory components (ConversationBufferMemory)**  
+- Enabled persistent, session-aware conversations with vector storage  
+- Used **Groq API** for ultra-fast inference  
+
+### 📑 7. PDF & Document RAG System  
+- Implemented **Document QA pipeline** with Chroma + LangChain loaders  
+- Processed PDFs, DOCX, and TXT formats for retrieval-based question answering  
+
+### 🧭 8. Summarizer and Knowledge Extractor  
+- Extracted structured summaries from large text data using LLMs  
+- Used **LangGraph orchestration** to manage multi-step summarization  
+
+### 🧠 9. Human-in-the-Loop Workflow  
+- Created a semi-automated system with user feedback loops  
+- Integrated human evaluation into **agent decision-making process**  
+
+### 🧩 10. End-to-End GenAI System (Deployment Focus)  
+- Combined **LangChain + FastAPI + Streamlit** for production-ready GenAI services  
+- Used **LangSmith** for observability, debugging, and workflow monitoring  
+
+---
+
 ## 🎓 Education  
 - **M.Sc Data Science**, Bishop Heber College, Trichy — *CGPA: 8.88* (2023–2025)  
 - **B.Sc Computer Science**, National College, Trichy — *CGPA: 9.14* (2020–2023)  
@@ -52,28 +102,12 @@ With hands-on experience in **LangChain, LangGraph, LangSmith**, and **RAG/Agent
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Other Featured Projects  
 
-### 🧠 **Generative & Agentic AI Projects (10+ Projects)**  
-- Built RAG pipelines, Agentic RAG systems, and Chatbots with memory  
-- Integrated LLMs (Groq, OpenAI) using LangChain + HuggingFace  
-- Developed **Orchestrator–Worker** & **Evaluator–Optimizer** AI workflows  
-- UI & API using **Streamlit** + **FastAPI**  
-
-### ✋ **Real-Time Sign Language Interpreter**  
-- Deep learning-based hand gesture recognition using **MediaPipe** & **CNNs**  
-- Achieved **99.94% accuracy** with text-to-speech output  
-
-### 🖱️ **Handsfree Computer Navigation (Hackathon Project)**  
-- Used computer vision to control cursor with hand movements  
-
-### 🎯 **Student ID Card Detection using CNN**  
-- Image classification pipeline for student ID verification  
-
-### 📊 **Data Analysis Projects (Afame & ShadowFox)**  
-- **Delhi AQI Analysis** – pollutant trend visualization  
-- **IMDb Dataset Analysis** – movie ratings & genre insights  
-- **Sales & Titanic Dataset Analysis** – EDA and visualization dashboards  
+- ✋ **Real-Time Sign Language Interpreter** — CNN + MediaPipe + TTS (99.94% accuracy)  
+- 🖱️ **Handsfree Computer Navigation (Hackathon Project)** — Hand gestures as cursor control  
+- 🎯 **Student ID Card Detection using CNN** — Image classification for ID verification  
+- 📊 **Data Analysis Projects (Afame & ShadowFox)** — AQI, IMDb, Sales & Titanic datasets  
 
 ---
 
